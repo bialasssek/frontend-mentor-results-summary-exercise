@@ -69,7 +69,7 @@ body {
 
 .results-summary {
   display: grid;
-  max-width: 46em;
+  max-width: 40em;
 
   overflow: hidden;
 }
